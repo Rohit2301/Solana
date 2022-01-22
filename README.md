@@ -1,4 +1,4 @@
 # Solana
 
-My Solana quests repository. Build while learning.
-Commencing the roadmap of Web2 to Web3. 
+My Solana quests repository. <br/>Build while learning.
+<br/>Commencing the roadmap of Web2 to Web3. 
